@@ -1,0 +1,14 @@
+{
+  "name": "com.ryuu.unity.addressable",
+  "license": "MIT",
+  "version": "0.1.0",
+  "displayName": "Ryuu Unity Addressable",
+  "unity": "2022.3",
+  "description": "",
+  "dependencies": {},
+  "author": {
+    "name": "ryuu",
+    "email": "2357622935@qq.com",
+    "url": "https://blog.ryuu64.top/"
+  }
+}
